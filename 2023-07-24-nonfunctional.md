@@ -9,7 +9,8 @@ The vagueness lies in that, for the set of "requirements," "functional requireme
 However, the way of stating functional requirements + non-functional requirements + design constraints has been in use for a long time. I myself started using this expression around 2002. Of course, I must have seen it in textbooks, but I can't remember exactly which one. In fact, many books still express it this way over the years, and some are even more confusing: 
  
 Software Engineering: Theory and Practice, Shari Lawrence Pfleeger, Joanne M. Atlee, 2009
-（此处怎么插入图片？）
+
+[Image Description](notfun.png)
  
 The Requirements Engineering Handbook, Ralph R. Young, 2003
 
